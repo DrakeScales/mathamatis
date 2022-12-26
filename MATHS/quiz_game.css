@@ -1,0 +1,73 @@
+body
+{
+	background: linear-gradient(darkblue,red, orange, yellow);
+}
+center{
+	background-image:url("46-462151_mountain-silhouette-transparent-at-getdrawings-black-mountains-transparent.png") ;
+}
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#qwerty:hover{
+	text-align: center;
+	color:darkgoldenrod;
+	
+}
+
+#hr1a, #hr1b{
+	background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
+
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#qwe{
+	text-align: center;
+	color:darkgoldenrod;
+}
+
+#qwerty{
+	text-align: center;
+	color:darkgoldenrod;
+}
+
+#nah{
+    width: fit-content;
+    height: fit-content;
+}
+
+.login_div{
+    width: fit-content;
+    height: fit-content;
+    background: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+#yea{
+	text-decoration: double;
+	font-family: 'Brush Script MT', cursive;
+	color: aquamarine;
+}
+#no{
+	background-image:url("download-removebg-preview.png");
+	background-size: contain;
+}
